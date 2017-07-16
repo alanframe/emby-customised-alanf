@@ -2,7 +2,7 @@ define([], function () {
     'use strict';
 
     return {
-        id: 'defaultskin',
-        name: 'Default Skin'
+        id: 'alancustomised',
+        name: 'Alans customised Default Skin'
     };
 });
