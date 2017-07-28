@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Customised Default Skin.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-customised-alanf/gh-pages",
+    "homepage": "https://raw.githubusercontent.com/alanframe/emby-customised-alanf/gh-pages",
     "thumb": "",
     "backdrop": ""
 }
